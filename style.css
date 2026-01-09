@@ -89,3 +89,24 @@ img{
 }
 }
 
+@media screen and (max-width:768px)   {
+    #para{
+       font-size: 2rem;
+}
+
+#imoji{
+    text-align: center;
+    font-size: 2.5rem;
+}
+#btn{
+    margin-left: 36%;
+}
+img{
+    margin-top: 1.5rem;
+    height:500px;
+    width: 250px;
+    margin-left: 70px;
+}
+}
+
+
