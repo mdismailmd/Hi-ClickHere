@@ -69,7 +69,7 @@ cursor: pointer;
     display: none;
 }
 
-@media screen and (max-width:375px)  {
+@media screen and (max-width:450px)  {
     #para{
        font-size: 2rem;
 }
@@ -88,3 +88,4 @@ img{
     margin-left: 70px;
 }
 }
+
